@@ -9,7 +9,7 @@ Some texture pack site I made for Geometry Dash
 
 1) Download and Install Node.js
 2) Download or clone the repository
-3) Type `npm i` to install a bunch of useless shit on your hard drive.
+3) Type `npm i` in both folders to install a bunch of useless shit on your hard drive.
 4) Type `cd client` in one terminal and `cd server` in another.
 5) In the `client` folder type `npm run serve` to get the frontend up and running.
 6) In the `server` folder also type `npm run serve` to get the backend running, if you plan on deploying this for whatever reason I would suggest running `npm run dev` so it doesn't ping it every time someone loads the page.
