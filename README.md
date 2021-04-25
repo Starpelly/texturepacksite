@@ -5,7 +5,8 @@
 
 Some texture pack site I made for Geometry Dash
 
-How to install this locally if you want to for some reason:
+## How to install this locally if you want to for some reason:
+
 1) Download and Install Node.js
 2) Download or clone the repository
 3) Type `npm i` to install a bunch of useless shit on your hard drive.
